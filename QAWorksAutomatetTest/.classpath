@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Downloads/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Downloads/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Downloads/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Downloads/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Downloads/cucumber-reporting-3.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Downloads/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Downloads/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Downloads/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Downloads/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vesi/Desktop/cucumber jars/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
